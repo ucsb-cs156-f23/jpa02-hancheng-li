@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-f23/STARTER-jpa02
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: http://jpa02-hancheng-li.dokku-02.cs.ucsb.edu
 
 
 # About this repo
